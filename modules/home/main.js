@@ -1,0 +1,1 @@
+define("home/main.js",function(i,n){seajs.use("home/main.css"),n.init=function(){},n.init()});
