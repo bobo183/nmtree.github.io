@@ -1,0 +1,1 @@
+var data=seajs.data;seajs.log=function(o,a){window.console&&(a||data.debug)&&console[a||(a="log")]&&console[a](o)};

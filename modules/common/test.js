@@ -1,0 +1,1 @@
+define("common/test",function(require,n,o){var t=function(n){var o={};return o.init=function(){console.log(n)},o}("1.0.0");o.exports=t});
